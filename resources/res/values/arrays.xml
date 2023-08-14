@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="Filtro_ejercicios">
+        <item>Flexibilidad</item>
+        <item>Resistencia</item>
+        <item>Elongación muscular</item>
+    </array>
+    <array name="Filtro_generos">
+        <item>Masculuno</item>
+        <item>Femenino</item>
+    </array>
+    <array name="Filtro_gimnasios">
+        <item>Precio</item>
+        <item>Calificación</item>
+    </array>
+</resources>

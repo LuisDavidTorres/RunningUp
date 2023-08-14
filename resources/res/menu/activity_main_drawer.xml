@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <group>
+        <item android:icon="@drawable/ic_mi_cuenta" android:id="@+id/MICuenta" android:title="Mi cuenta"/>
+        <item android:icon="@drawable/ic_ejercicios" android:id="@+id/Ejercicios" android:title="Ejercicios"/>
+        <item android:icon="@drawable/ic_mapa" android:id="@+id/Maps" android:title="Recorrer"/>
+        <item android:icon="@drawable/ic_imc" android:id="@+id/IMC_Calculado" android:title="IMC"/>
+        <item android:icon="@drawable/ic_recorridos" android:id="@+id/Recorridos" android:title="Mis recorridos"/>
+        <item android:icon="@drawable/ic_gimnasio" android:id="@+id/Gimnasios" android:title="Gimnasios"/>
+        <item android:icon="@drawable/ic_favorite" android:id="@+id/Favoritos" android:title="Ejercicios Favoritos"/>
+    </group>
+</menu>
